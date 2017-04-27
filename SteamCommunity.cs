@@ -53,7 +53,7 @@ namespace WheelOfSteamGames
         /// </summary>
         public static event Action<Game> OnLoadGame;
 
-        public const string SteamAPIKey = "45A026565B2587A7EA3419B570E0D951"; //probably shouldn't be public but oh well
+        public const string SteamAPIKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
         public const string StoreURL = "http://store.steampowered.com/api/appdetails/?appids={0}";
         public const string ResolveVanityURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key={0}&vanityurl={1}&format=json";
         public const string ProfileGameInfoURL = "http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={0}&steamid={1}&include_appinfo=1&format=json";
