@@ -1,4 +1,4 @@
-# Wheel of Steam Games
+# Wheel of Steam Games <a href="https://github.com/EIGHTFINITE/wheel-of-steam-games"><img src="http://i.imgur.com/594VQw1.png" width="80" height="80" align="right"></a>
 
 Wheel of Steam Games is a fun way to solve your crippling indecision of which game to play!
 
